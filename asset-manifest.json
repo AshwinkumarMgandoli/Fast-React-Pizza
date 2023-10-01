@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fast-React-Pizza/static/css/main.a813677f.css",
+    "main.js": "/Fast-React-Pizza/static/js/main.20f064f5.js",
+    "index.html": "/Fast-React-Pizza/index.html",
+    "main.a813677f.css.map": "/Fast-React-Pizza/static/css/main.a813677f.css.map",
+    "main.20f064f5.js.map": "/Fast-React-Pizza/static/js/main.20f064f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a813677f.css",
+    "static/js/main.20f064f5.js"
+  ]
+}
